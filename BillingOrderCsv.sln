@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillingOrderCsv", "BillingOrderCsv\BillingOrderCsv.csproj", "{FDE5AD36-8D31-476C-AF6D-7AE4D5E0B0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCSV", "SampleCSV\SampleCSV.csproj", "{06472CDE-DB94-4AD7-96FB-74764174B4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE5AD36-8D31-476C-AF6D-7AE4D5E0B0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE5AD36-8D31-476C-AF6D-7AE4D5E0B0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE5AD36-8D31-476C-AF6D-7AE4D5E0B0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE5AD36-8D31-476C-AF6D-7AE4D5E0B0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06472CDE-DB94-4AD7-96FB-74764174B4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06472CDE-DB94-4AD7-96FB-74764174B4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06472CDE-DB94-4AD7-96FB-74764174B4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06472CDE-DB94-4AD7-96FB-74764174B4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4732BCA-AF94-45FD-9444-6DEBF59790A9}
+	EndGlobalSection
+EndGlobal
